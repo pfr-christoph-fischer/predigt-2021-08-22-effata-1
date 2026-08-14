@@ -8,7 +8,7 @@ scripture: Markus 7,31-37
 summary: "Am Taubstummen tut Jesus ein Wunder. Aber nicht nur an ihm. Vielleicht sogar an uns. [Kurzfassung]"
 source: pfarrplaner
 source_id: "193@www.pfarrplaner.de"
-cover: cover.jpg
+cover: effata-1.jpg
 cover_alt: "Titelbild zur Predigt \"Effata\"."
 legacy_id: 193
 events:
